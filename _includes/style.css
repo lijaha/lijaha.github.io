@@ -87,8 +87,19 @@ td {
   vertical-align: middle;
 }
 a img {
-  border: none;
+  border-radius: 5px;
 }
+.logo {
+  border-radius: 50px;
+}
+#wechat {
+  display: none;
+}
+#wechat>img {
+  border-radius: 10px;
+  opacity: 0.3;
+}
+
 article,
 aside,
 canvas,
@@ -177,19 +188,19 @@ a.external:hover {
 }
 .index-wrapper .info-card {
   position: absolute;
-  margin-top: 70%;
+  margin-top: 48%;
   text-align: center;
   width: 100%;
 }
 @media screen and (max-width: 767px) {
   .index-wrapper .info-card {
-    margin-top: 70px;
+    margin-top: 60px;
   }
 }
 .index-wrapper .info-card h1 {
-  font-size: 40px;
+  font-size: 34px;
   color: #fff;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-shadow: 0 0 80px rgba(255,255,255,0.5);
   letter-spacing: 0.15em;
   text-shadow: rgba(255,255,255,0.5) 0 0 15px, rgba(255,255,255,0.5) 0 0 10px;
@@ -435,17 +446,13 @@ a.external:hover {
   clear: both;
 }
 .about-wrapper .aboutme h2 {
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .about-wrapper .aboutme h2 a {
   font-size: 18px;
 }
-.about-wrapper .aboutme li {
-  line-height: 1.4;
-  margin-bottom: 10px;
-  float: left;
-  width: 50%;
-}
+
 @media screen and (max-width: 767px) {
   .about-wrapper .aboutme li {
     float: none;
