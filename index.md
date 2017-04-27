@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <img class="logo" src="logo.jpg" alt="logo" width="65px" height="65px"/>
+        <img class="logo" src="./logo.JPG" alt="logo" width="65px" height="65px"/>
         <h1>Lijaha</h1>
         <a href="http://www.jianshu.com/u/bb3bbe79b2a1" target="_blank"><img src="./images/index/jianshu.png" alt="jianshu" width="25"/></a>
         <a href="javascript:void(0)" onclick="show()"><img src="./images/index/wechat.png" alt="wechat" width="25" onclick="show()"/></a>
