@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: 《响应式Web设计性能优化》笔记
+title: 《高性能响应式Web开发》笔记
 category: blog
 author: lijaha
-description: 《响应式Web设计性能优化》笔记
+description: 《高性能响应式Web开发》笔记
 
 ---
 
