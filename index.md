@@ -6,13 +6,13 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <img class="logo" src="./logo.JPG" alt="logo" width="65px" height="65px"/>
+        <img class="logo" src="http://blogimage-1252049038.costj.myqcloud.com/logo.jpg" alt="logo" width="65px" height="65px"/>
         <h1>Lijaha</h1>
-        <a href="http://www.jianshu.com/u/bb3bbe79b2a1" target="_blank"><img src="./images/index/jianshu.png" alt="jianshu" width="25"/></a>
-        <a href="javascript:void(0)" onclick="show()"><img src="./images/index/wechat.png" alt="wechat" width="25" onclick="show()"/></a>
-        <a href="https://github.com/lijaha" target="_blank"><img src="./images/index/github.png" alt="github.png" width="25"/></a>
+        <a href="http://www.jianshu.com/u/bb3bbe79b2a1" target="_blank"><img src="http://blogimage-1252049038.costj.myqcloud.com/jianshu.png" alt="jianshu" width="25"/></a>
+        <a href="javascript:void(0)" onclick="show()"><img src="http://blogimage-1252049038.costj.myqcloud.com/wechat.png" alt="wechat" width="25" onclick="show()"/></a>
+        <a href="https://github.com/lijaha" target="_blank"><img src="http://blogimage-1252049038.costj.myqcloud.com/github.png" alt="github.png" width="25"/></a>
         <div id="wechat">
-          <img src="images/index/lijahaTalk.jpg" width="120"/>
+          <img src="http://blogimage-1252049038.costj.myqcloud.com/lijahaTalk.jpg" width="120"/>
         </div>
       </div>
       <div id="particles-js"></div>
